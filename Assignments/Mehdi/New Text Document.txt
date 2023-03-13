@@ -1,5 +1,0 @@
-print"the first assignment"
-int x = 35;
-int y = 40;
-int z = x+y;
-print(z)
